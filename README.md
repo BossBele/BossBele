@@ -50,7 +50,7 @@
     <tr valign="middle">
       <td width="25%" align="center">
         <br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/word-press.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
         <br>
       </td>
       <td width="25%" align="center">
