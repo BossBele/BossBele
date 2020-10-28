@@ -5,18 +5,19 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <br><br>
+        <br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <br><br>
+        <br>
         <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
       </td>
       <td width="25%" align="center">
-        <br><br>
+        <br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
+        <br>
         <img height="64px" src="https://cdn.svgporn.com/logos/npm.svg">
       </td>
     </tr>
@@ -35,7 +36,7 @@
       </td>
       <td width="25%" align="center">
         <br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
       </td>
     </tr>
   </tbody>
