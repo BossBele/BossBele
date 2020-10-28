@@ -3,39 +3,43 @@
 
 <table>
   <tbody>
-    <tr valign="top">
+    <tr valign="middle">
       <td width="25%" align="center">
         <br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <br>
       </td>
       <td width="25%" align="center">
         <br>
         <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+        <br>
       </td>
       <td width="25%" align="center">
         <br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+        <br>
       </td>
       <td width="25%" align="center">
         <br>
         <img height="64px" src="https://cdn.svgporn.com/logos/npm.svg">
+        <br>
       </td>
     </tr>
-    <tr valign="top">
+    <tr valign="middle">
       <td width="25%" align="center">
-        <br><br>
+        <br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
-        <br><br>
+        <br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <br><br>
+        <br>
         <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
       </td>
       <td width="25%" align="center">
-        <br><br>
+        <br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
       </td>
     </tr>
