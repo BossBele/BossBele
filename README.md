@@ -50,6 +50,28 @@
     <tr valign="middle">
       <td width="25%" align="center">
         <br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/google-cloud-platform.svg">
+        <br>
+      </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+        <br>
+      </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/npm.svg">
+        <br>
+      </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
+        <br>
+      </td>
+    </tr>
+    <tr valign="middle">
+      <td width="25%" align="center">
+        <br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg">
         <br>
       </td>
