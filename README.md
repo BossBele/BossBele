@@ -1,115 +1,90 @@
-
-# The Greatest
-
 <table>
   <tbody>
     <tr valign="middle">
       <td width="25%" align="center">
         <br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg">
         <br>
       </td>
       <td width="25%" align="center">
         <br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/react.svg">
         <br>
       </td>
       <td width="25%" align="center">
         <br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android.svg">
+        <img height="48px" src="https://cdn.worldvectorlogo.com/logos/android.svg">
         <br>
       </td>
       <td width="25%" align="center">
         <br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/apple.svg">
-        <br>
-      </td>
-    </tr>
-    <tr valign="middle">
-      <td width="25%" align="center">
-        <br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/google-cloud.svg">
-        <br>
-      </td>
-      <td width="25%" align="center">
-        <br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
-        <br>
-      </td>
-      <td width="25%" align="center">
-        <br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/expo.svg">
-        <br>
-      </td>
-      <td width="25%" align="center">
-        <br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mobx.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/apple.svg">
         <br>
       </td>
     </tr>
     <tr valign="middle">
       <td width="25%" align="center">
         <br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/google-cloud-platform.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/google-cloud.svg">
         <br>
       </td>
       <td width="25%" align="center">
         <br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/firebase.svg">
         <br>
       </td>
       <td width="25%" align="center">
         <br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/expo.svg">
         <br>
       </td>
       <td width="25%" align="center">
         <br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/google-cloud-functions.svg">
-        <br>
-      </td>
-    </tr>
-    <tr valign="middle">
-      <td width="25%" align="center">
-        <br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg">
-        <br>
-      </td>
-      <td width="25%" align="center">
-        <br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
-        <br>
-      </td>
-      <td width="25%" align="center">
-        <br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/cpanel.svg">
-        <br>
-      </td>
-      <td width="25%" align="center">
-        <br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/mobx.svg">
         <br>
       </td>
     </tr>
     <tr valign="middle">
       <td width="25%" align="center">
         <br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
         <br>
       </td>
       <td width="25%" align="center">
         <br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/nextjs.svg">
         <br>
       </td>
       <td width="25%" align="center">
         <br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/npm.svg">
+        <img height="48px" src="https://cdn.worldvectorlogo.com/logos/npm.svg">
         <br>
       </td>
       <td width="25%" align="center">
         <br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/google-cloud-functions.svg">
+        <br>
+      </td>
+    </tr>
+    <tr valign="middle">
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg">
+        <br>
+      </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+        <br>
+      </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/cpanel.svg">
+        <br>
+      </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/jquery.svg">
         <br>
       </td>
     </tr>
