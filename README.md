@@ -5,13 +5,15 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
+        <br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
+        <br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
       </td>
       <td width="25%" align="center">
-        <span>React</span><br><br><br>
+        <br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
@@ -20,19 +22,19 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+        <br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
+        <br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>Linux</span><br><br><br>
+        <br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
+        <br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio.svg">
       </td>
     </tr>
