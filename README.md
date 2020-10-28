@@ -47,7 +47,7 @@
     <tr valign="middle">
       <td width="25%" align="center">
         <br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/jquery.svg">
+        <img height="36px" src="https://cdn.svgporn.com/logos/jquery.svg">
         <br>
       </td>
       <td width="25%" align="center">
