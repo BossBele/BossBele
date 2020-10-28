@@ -50,7 +50,7 @@
     <tr valign="middle">
       <td width="25%" align="center">
         <br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/wordpress.svg">
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/word-press.svg">
         <br>
       </td>
       <td width="25%" align="center">
