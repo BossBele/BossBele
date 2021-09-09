@@ -101,12 +101,12 @@
       </td>
       <td width="25%" align="center">
         <br>
-        <img height="36px" src="https://cdn.svgporn.com/logos/cpanel.svg">
+        <img height="36px" src="https://cdn.svgporn.com/logos/php.svg">
         <br>
       </td>
       <td width="25%" align="center">
         <br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/atlassian.svg">
         <br>
       </td>
     </tr>
