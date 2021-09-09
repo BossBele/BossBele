@@ -88,6 +88,28 @@
         <br>
       </td>
     </tr>
+    <tr valign="middle">
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg">
+        <br>
+      </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+        <br>
+      </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="36px" src="https://cdn.svgporn.com/logos/cpanel.svg">
+        <br>
+      </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <br>
+      </td>
+    </tr>
   </tbody>
 </table>
 
