@@ -91,7 +91,7 @@
     <tr valign="middle">
       <td width="25%" align="center">
         <br>
-        <img height="48px" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+        <img height="48px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
         <br>
       </td>
       <td width="25%" align="center">
