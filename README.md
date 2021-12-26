@@ -132,6 +132,28 @@
         <br>
       </td>
     </tr>
+    <tr valign="middle">
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.worldvectorlogo.com/logos/symfony.svg">
+        <br>
+      </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
+        <br>
+      </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="36px" src="https://cdn.worldvectorlogo.com/logos/metabase.svg">
+        <br>
+      </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/heroku.svg">
+        <br>
+      </td>
+    </tr>
   </tbody>
 </table>
 
