@@ -154,6 +154,28 @@
         <br>
       </td>
     </tr>
+    <tr valign="middle">
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.worldvectorlogo.com/logos/doctrine.svg">
+        <br>
+      </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+        <br>
+      </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="36px" src="https://cdn.worldvectorlogo.com/logos/nginx.svg">
+        <br>
+      </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/mysql.svg">
+        <br>
+      </td>
+    </tr>
   </tbody>
 </table>
 
