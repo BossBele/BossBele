@@ -110,6 +110,28 @@
         <br>
       </td>
     </tr>
+    <tr valign="middle">
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.worldvectorlogo.com/logos/flow.svg">
+        <br>
+      </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/svelte.svg">
+        <br>
+      </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="36px" src="https://cdn.svgporn.com/logos/amp.svg">
+        <br>
+      </td>
+      <td width="25%" align="center">
+        <br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/sass.svg">
+        <br>
+      </td>
+    </tr>
   </tbody>
 </table>
 
