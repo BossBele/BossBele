@@ -188,14 +188,8 @@
         <br>
       </td>
       <td width="25%" align="center">
-        <br>
-
-        <br>
       </td>
       <td width="25%" align="center">
-        <br>
-
-        <br>
       </td>
     </tr>
   </tbody>
