@@ -188,6 +188,7 @@
         <br>
       </td>
       <td width="25%" align="center">
+      <img height="48px" src="https://cdn.worldvectorlogo.com/logos/nomad-2.svg">
       </td>
       <td width="25%" align="center">
       </td>
